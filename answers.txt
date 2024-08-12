@@ -1,0 +1,13 @@
+1. echo hello john
+2. pwd
+3. mkdir northcoders
+4. cd northcoders; pwd
+5. mkdir intro-week; mkdir fundamentals; mkdir data; mkdir back
+end; mkdir cloud; ls
+6. cd intro-week; 
+Create a new blank file in your intro-week directory called questions.txt.
+7. touch questions.txt
+8. cd ..; pwd;
+9. man ls; la -a; ls -a;
+ls -a will show all files including hidden files and ls -A will show all files except the current directory and parent directory.
+10. cd; ls -a > directory-contents.txt; cat directory-contents.txt
